@@ -1,0 +1,1 @@
+f=mp4 vcodec=nvenc_h264 acodec=aac ab=384k g=15 profile:v=high global_quality=21 -coder 1 vq=21 -r 29.97 preset=slow bf=2 movflags=faststart pix_fmt=yuv420p
