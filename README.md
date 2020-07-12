@@ -3,3 +3,7 @@
 > These settings were stolen from: `https://flamy.ca/blog/2019-10-14-kdenlive-nvenc-video-settings-for-youtube.html`  
 
 > The settings can be found here: [settings.txt](settings.txt)
+
+## Notes
+> You might also want to install:
+* libnvidia-encode1
